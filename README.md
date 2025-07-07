@@ -2,3 +2,4 @@
 "cherry-pick practising line" 
 "cherry-pick practising line" 
 "this line is for stash demo" 
+"This is a line from MAIN" 
