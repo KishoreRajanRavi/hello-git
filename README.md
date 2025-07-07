@@ -13,3 +13,4 @@
 "This is from main branch"
 "This is a line from FEATURE" 
 >>>>>>> 5cd543b (Feature branch: new line added)
+"Undo demo line" 
